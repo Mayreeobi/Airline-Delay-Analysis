@@ -1,4 +1,4 @@
-# AIRLINE-DELAYS-ANALYSIS (SQL Project)
+# Airline Delay Analysis (A SQL Project)
 
 ## Introduction
 Flight delays are a critical issue in the aviation industry, leading to financial losses, operational inefficiencies, and customer dissatisfaction. This project analyzes real-world flight delay data to uncover trends, identify root causes, and provide actionable insights to improve airline operations and enhance passenger experiences.
